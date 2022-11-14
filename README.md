@@ -15,6 +15,7 @@ The first duty of intelligent men is the restatement of the obvious.
  The portfolio is assumed to consist of 9 ETFs: SPY(S&P 500), IWM(Russell 2000), FEZ(Euro Stoxx 50), ACWI (MSCI All-Country World), ACG(Barclays Aggregate US Bond), IAGG(iShares Core  International Aggregate Bond), IYR(Dow Jones US Real Estate), REET(iShares Global REIT), and GSG(iShares GSCI Commodity Index).
     
  If you would like to send me suggestions or comments on the project, please send them to my email address with the title "Portfolio - Construction Comments." Lastly, I would like to pay specific gratitude to Dr. Dale Rosenthal. This work was inspired by his book and numerous consultations.
+ 
                                                         Kobena (Kobby) Amoah,
                                                         amoahkobena@gmail.com
 
