@@ -1,5 +1,5 @@
 # Portfolio-Construction-and-Analytics
-The first duty of intelligent men is the restatement of the obvious.         
+    The first duty of intelligent men is the restatement of the obvious.         
                                                         - George Orwell
                                                         
  This work is an ongoing attempt focusing on two main components of the portfolio management process. These components are:
