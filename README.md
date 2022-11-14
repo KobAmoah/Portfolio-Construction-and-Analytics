@@ -6,7 +6,7 @@
    - Portfolio weighting
    - Portfolio performance evaluation
    
- The baseline idea is to explore the idea of 'Diversification' as it relates to how different weighting schemes of a portfolio's constituents affect the overall portfolio performance. The weighting schemes explored are
+ The baseline motivation is to explore the idea of 'Diversification' as it relates to how different weighting schemes of a portfolio's constituents affect the overall portfolio performance. The weighting schemes explored are
    - Equal Weight
    - Markowitz
    - Black-Litterman
