@@ -16,7 +16,7 @@
     
  If you would like to send me suggestions or comments on the project, please send them to my email address with the title "Portfolio - Construction Comments." I'd be pleased to receive your feedback. 
  
- Lastly, I would like to pay specific gratitude to Dr. Dale Rosenthal. This work was inspired by his book and my numerous consultations with him. I'd also like to thank Dr. Craig Knuckles (Lake Forest College) for his unwavering support during the project's undertaking.
+ Lastly, I would like to pay specific gratitude to Dr. Dale Rosenthal (Q36 LLC). This work was inspired by his book and my numerous consultations with him. I'd also like to thank Dr. Craig Knuckles (Lake Forest College) for his unwavering support during the project's undertaking.
  
  
                                                         Kobena (Kobby) Amoah,
