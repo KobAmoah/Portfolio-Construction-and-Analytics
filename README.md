@@ -1,5 +1,5 @@
 # Portfolio-Construction-and-Analytics
-   "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”
+      "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.”
                                                         - Hans Hofmann
                                                         
  This work is an ongoing attempt focusing on two main components of the portfolio management process. These components are:
