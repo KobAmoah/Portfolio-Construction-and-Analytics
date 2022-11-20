@@ -10,7 +10,7 @@
    - Equal Weight
    - Markowitz
    - Black-Litterman
-   - Treynor-Black
+   - Covariance-Robust Optimization
    
  The portfolio is assumed to consist of 9 ETFs: SPY(S&P 500), IWM(Russell 2000), FEZ(Euro Stoxx 50), ACWI (MSCI All-Country World), ACG(Barclays Aggregate US Bond), IAGG(iShares Core  International Aggregate Bond), IYR(Dow Jones US Real Estate), REET(iShares Global REIT), and GSG(iShares GSCI Commodity Index).
     
