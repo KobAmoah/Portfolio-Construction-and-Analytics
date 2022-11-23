@@ -2,7 +2,7 @@
       The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
                                                                                   - Hans Hofmann
                                                                                   
-           ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
+      ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
                                                                           
                                                         
  This work is an ongoing attempt focusing on two main components of the portfolio management process. These components are:
