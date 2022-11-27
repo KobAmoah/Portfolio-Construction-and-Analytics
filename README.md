@@ -4,7 +4,7 @@
       I am always doing that which I cannot do, in order that I might learn how to do it.
                                                                             - Pablo Picasso
                                                                                                                                                                                                              
- This work is attempt focusing on two main components of the portfolio management process. These components are:
+ This work is an attempt focusing on two main components of the portfolio management process. These components are:
    - Portfolio weighting
    - Portfolio performance evaluation
    
