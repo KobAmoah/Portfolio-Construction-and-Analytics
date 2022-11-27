@@ -1,10 +1,10 @@
 ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
 
 # Portfolio-Construction-and-Analytics
-      The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
-                                                                                  - Hans Hofmann
+      I am always doing that which I cannot do, in order that I might learn how to do it.
+                                                                            - Pablo Picasso
                                                                                                                                                                                                              
- This work is an ongoing attempt focusing on two main components of the portfolio management process. These components are:
+ This work is attempt focusing on two main components of the portfolio management process. These components are:
    - Portfolio weighting
    - Portfolio performance evaluation
    
