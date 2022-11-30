@@ -247,7 +247,7 @@ bl<-key.measures(port.weight = BL.weights$weights,
                  Ra = BL.rets[,1], bm =  comp.ind)
 
 #  Note for the benchmark, all we need are the annualized
-#  Returns, StDev, and Sharpe Ratios
+#  Returns, StDev, and Active Returns
 #  Since the benchmark is price-weighted, the weights used in the function is the Equal Weight
 bm <- key.measures(port.weight = EW.weights$weights, 
                   Ra = comp.ind, bm =  comp.ind)
