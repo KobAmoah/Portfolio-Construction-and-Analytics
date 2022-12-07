@@ -1,6 +1,6 @@
 ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
 
-*** Note: HTML File can be viewed at https://htmlpreview.github.io/?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Articles/HTML%20Files/Project-Article.html
+*** Note: HTML File can be viewed at https://htmlpreview.github.io/?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Articles/HTML%20Files/Project-Article.nb.html
 
 # Portfolio-Construction-and-Analytics
       I am always doing that which I cannot do, in order that I might learn how to do it.
