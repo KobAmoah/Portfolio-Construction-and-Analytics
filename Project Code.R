@@ -127,7 +127,7 @@ print("Black-Litterman Weights")
 print(sprintf("%s : %s", etf.symbols,
               scales::percent(as.numeric(BL.weights$weights))))
 
-# Create List of portfolios objects and display their weights in a barplot
+# Create List of portfolio objects and display their weights in a barplot
 port.list <- list(GMV.weights,EW.weights, RO.weights, BL.weights)
 names(port.list) <- c("Markowitz","Equal-Weight", 'Covariance Robust Optimization', 
                       'Black-Litterman')
