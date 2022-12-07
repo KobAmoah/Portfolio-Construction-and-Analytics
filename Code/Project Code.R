@@ -178,8 +178,9 @@ cum.rets.chart<-highchart(type='stock')%>%
   hc_scrollbar(enabled=FALSE) %>%
   hc_add_theme(hc_theme_flat())%>%
   hc_exporting(enabled=TRUE)%>%
-  hc_legend(enabled=TRUE)
-print(cum.rets.chart)
+  hc_legend(enabled=TRUE)%>% 
+  hc_plotOptions(series = list(animation = FALSE))
+cum.rets.chart
 
 key.measures<- function( Ra, port.weight, bm, scale = 12,Sigma = cov(etf.rets), Rf= 0){
   ret<-     Return.annualized(Ra,scale = scale) *100
