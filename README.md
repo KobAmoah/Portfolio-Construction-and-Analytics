@@ -1,9 +1,7 @@
 ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
 
 *** The HTML file can be hardly viewed on the repository.
-*** To provide better accessibility, you may view the file here[Link](https://rpubs.com/KobAmoah/980806)
-
-*** There is embedded image that does not display properly. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.png)
+*** To provide better accessibility, you may view the file here [Link](https://rpubs.com/KobAmoah/980806)
 
 # Portfolio-Construction-and-Analytics
       I am always doing that which I cannot do, in order that I might learn how to do it.
@@ -28,4 +26,8 @@
  
                                                         Kobena (Kobby) Amoah,
                                                         amoahkobena@gmail.com
+
+
+*** As a side note, for those who want to view the html file through the repository, here is the [Link] (https://htmlpreview.github.io?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Project-Article.html)
+*** There is embedded image that does not display properly in that file. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.png)
 
