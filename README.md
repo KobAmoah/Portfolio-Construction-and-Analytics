@@ -2,7 +2,7 @@
 
 *** Note: HTML File can be viewed here [Link](https://htmlpreview.github.io/?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Project-Article.html)
 
-*** There is embedded image that does not display properly. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.jpg)
+*** There is embedded image that does not display properly. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.png)
 
 # Portfolio-Construction-and-Analytics
       I am always doing that which I cannot do, in order that I might learn how to do it.
