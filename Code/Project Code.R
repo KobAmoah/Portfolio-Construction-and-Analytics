@@ -165,7 +165,7 @@ names(rets.scale) <- c("Markowitz","Equal-Weight","Covariance-Robust Optimizatio
 
 # Performance - Cumulative Returns Chart
 cum.rets.chart<-highchart(type='stock')%>%
-  hc_title(text='Hypotheical Growth of $10,000 ') %>%
+  hc_title(text='Hypothetical Growth of $10,000 ') %>%
   hc_add_series(round(rets.scale[,1],2), 
                 name=colnames(rets.scale)[1])%>%
   hc_add_series(round(rets.scale[,2],2), 
