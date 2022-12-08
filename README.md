@@ -1,6 +1,7 @@
 ![images-9](https://user-images.githubusercontent.com/108365002/203464048-ebcd4f70-dd77-4361-9836-1c992785cf43.jpeg)
 
 *** Note: HTML File can be viewed here [Link](https://htmlpreview.github.io/?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Project-Article.html)
+
 *** There is embedded image that does not display properly. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.jpg)
 
 # Portfolio-Construction-and-Analytics
