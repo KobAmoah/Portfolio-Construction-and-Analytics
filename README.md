@@ -29,7 +29,7 @@
                                                         amoahkobena@gmail.com
 
 
-*** As a side note, for those who want to view the html file through the repository, here is the [Link] (https://htmlpreview.github.io?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Project-Article.html)
+*** As a side note, for those who want to view the html file through the repository, here is the [Link](https://htmlpreview.github.io?https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Project-Article.html)
 
 *** There is embedded image that does not display properly in that file. Missing image can be found here [Link](https://github.com/KobAmoah/Portfolio-Construction-and-Analytics/blob/main/Article/HTML%20File/Cumulated-Returns-Chart.png)
 
