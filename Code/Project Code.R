@@ -146,7 +146,7 @@ weights
 # rets = returns
 rets<-c()
 
-#' Calculate Returns on Out-of-Sample Data - Without Wealth Progression
+#' Calculate Returns on Out-of-Sample Data - With Wealth Progression
 #' Combine returns of each portfolio in a single data frame
 for (i in 1:ncol(weights)) {
   rets.values <- Return.portfolio(etf.rets.test, weights  = weights[,i],
@@ -244,7 +244,7 @@ for (i in 1:ncol(weights)) {
 }
 
 #'  Note for the benchmark, all we need are the annualized
-#'  Returns, StDev, and Active Returns
+#'  Returns, StDev, and Excess Returns
 #'  Since the benchmark is price-weighted, the weights used in the function is the Equal Weight
 bm <- key.measures(port.weight = EW.weights$weights, 
                    Ra = comp.ind, bm =  comp.ind)
